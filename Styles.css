@@ -1,0 +1,30 @@
+header, main, footer {
+    min-height: 100px;
+
+}
+.layout-corpo {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.layout-corpo input {
+    max-width: 300px;
+}
+.meu-botao {
+    color: white;
+    display: block;
+    margin-left: 100px;
+    width: 300px;
+    background-color: #2B2B2B;
+    border-radius: 50px;
+}
+.social {
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.logo {
+    margin-left: 16px;
+}
+.campos {
+    margin-left: 100px;
+}
+
